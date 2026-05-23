@@ -55,7 +55,7 @@ title.pack(pady=10)
 
 subtitle = tk.Label(
     window,
-    text="Python Development Internship",
+    text="Python Programming Internship",
     font=("Arial", 14),
     fg="white",
     bg="#1e1e1e"

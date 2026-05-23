@@ -1,6 +1,6 @@
 # Advanced Password Generator GUI
 
-This project was developed for the Synent Technologies Python Development Internship.
+This project was developed for the Synent Technologies Python Programming Internship.
 
 The application generates secure and random passwords using Python.  
 It provides a professional graphical user interface (GUI) where users can customize password generation options according to their requirements.
