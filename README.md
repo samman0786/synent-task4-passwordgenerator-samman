@@ -1,33 +1,27 @@
-# Strong Password Generator
+# Advanced Password Generator GUI
 
-This is a Python project created for Synent Technologies Internship.
-
-## Objective
-Generate a secure and random password using Python.
+This project was created for Synent Technologies Python Development Internship.
 
 ## Features
-- Generates strong random passwords
-- Includes:
-  - Uppercase letters
-  - Lowercase letters
-  - Numbers
-  - Special characters
-- Password validation included
+- Professional GUI Interface
+- Generate secure passwords
+- Custom password options
+- Uppercase letters
+- Lowercase letters
+- Numbers
+- Special characters
 
 ## Technologies Used
 - Python
+- Tkinter
 - random module
 - string module
-- VS Code
 
 ## How to Run
-1. Open terminal
-2. Run the command:
+
+Run the following command:
 
 python main.py
-
-## Output
-Generates a secure random password.
 
 ## Author
 Samman khan
